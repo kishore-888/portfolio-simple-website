@@ -3,7 +3,7 @@ My First Portfolio Website 🌐  Welcome to my coding journey! This is my very f
 
 ## Overview
 
-Welcome to my personal portfolio website! This project consists of two main pages – Home and Contact. It's designed to provide visitors with an insight into my work, and skills.
+This project consists of two main pages – Home and Contact. It's designed to provide visitors with an insight into my work, and skills.
 
 ## Technologies Used
 
