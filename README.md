@@ -21,7 +21,7 @@ The Contact page provides visitors to get in touch with me.
 
 ## How to View
 
-You can access my portfolio website by visiting [Link] Feel free to explore the content and  get in touch!
+You can access my portfolio website by visiting [https://kishore-888.github.io/portfolio-simple-website/] Feel free to explore the content and  get in touch!
 
 ## Feedback
 
